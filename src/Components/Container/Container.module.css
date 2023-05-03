@@ -1,0 +1,12 @@
+.container {
+    margin: 10px auto;
+    max-width: 1280px;
+    height: 880px;
+    background-image: url("../../assets/images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
